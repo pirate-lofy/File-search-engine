@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <file>
+    <path>C:\Users\Nour\Desktop\file1.txt</path>
+    <category>sport</category>
+	<keywords />
+  </file>
+  <file>
+    <path>C:\Users\Nour\Desktop\file1.txt</path>
+    <category>science</category>
+    <keywords />
+  </file>
+  <file>
+    <path>C:\Users\Nour\Desktop\New Text Document.txt</path>
+    <category>sport</category>
+    <keywords>
+      <word>
+        <w>physics</w>
+        <lines>1,</lines>
+      </word>
+    </keywords>
+  </file>
+</files>

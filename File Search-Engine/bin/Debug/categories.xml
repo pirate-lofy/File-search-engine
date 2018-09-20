@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<categories>
+  <category>
+    <cat>sport</cat>
+    <keywords>
+      <kw>football</kw>
+      <kw>basket</kw>
+    </keywords>
+  </category>
+  <category>
+    <cat>science</cat>
+    <keywords>
+      <w>physics</w>
+      <w>math</w>
+      <w>chem</w>
+    </keywords>
+  </category>
+</categories>
